@@ -1,0 +1,59 @@
+
+
+h1 {
+    color : black;
+    text-align: center;
+    position: top;
+    size: 200px;
+}
+h3 {
+    color: black;
+    text-align: center;
+}
+
+body {
+    color: white;
+}
+
+.fond{
+    padding: 100px;
+    background-color: orange;
+    background-attachment: fixed;
+    height: ;
+
+}
+
+.billet {
+    text-align: center;
+    opacity: 0.75;
+}
+
+header {
+    opacity: 1;
+    background-color: orange;
+    height: 100px;
+}
+
+nav {
+
+    text-align: center;
+    color: white;
+    size: 500px;
+}
+
+.qrcode {
+    text-align: center;
+}
+
+.titre {
+    text-align: left;
+}
+
+.a {
+    text-align: center;
+}
+
+
+.b {
+    text-align: center;
+}
